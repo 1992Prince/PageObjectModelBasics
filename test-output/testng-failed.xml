@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="OS" value="Windows"/>
+  <parameter name="browser" value="Chrome"/>
+  <test thread-count="5" name="Extent Report Test(failed)">
+    <classes>
+      <class name="com.w2a.rough.ExtentReportTrial">
+        <methods>
+          <include name="tearDown"/>
+          <include name="startReport"/>
+          <include name="testCase4"/>
+          <include name="getResult"/>
+          <include name="testCase5"/>
+        </methods>
+      </class> <!-- com.w2a.rough.ExtentReportTrial -->
+    </classes>
+  </test> <!-- Extent Report Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
