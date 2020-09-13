@@ -55,7 +55,7 @@ public class TestBase {
 	
 
 	
-	@BeforeSuite
+	@BeforeTest
 	public void setUp() throws Exception {
 		//
 		// will gives the path of log4j.properties file to this class so that it follows that configuration
@@ -113,6 +113,12 @@ public class TestBase {
 			return false;
 		}
 	}
+	
+	@AfterTest
+	public void teardown() {
+	driver.quit();
+	}
+	
 	
 	
 

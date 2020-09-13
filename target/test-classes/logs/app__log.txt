@@ -1,7 +1,5 @@
-INFO    2020-03-27 09:12:24,602 [main] java.lang.Class  - config file loaded
-ERROR   2020-03-27 09:12:24,603 [main] java.lang.Class  - Error Message
-INFO    2020-03-27 09:12:24,604 [main] java.lang.Class  - OR file loaded
-INFO    2020-03-27 09:12:30,536 [main] java.lang.Class  - chrome launched   !!!
-INFO    2020-03-27 09:12:32,935 [main] java.lang.Class  - navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login
-INFO    2020-03-27 09:12:37,274 [main] java.lang.Class  - Inside Login Test
-INFO    2020-03-27 09:12:44,622 [main] java.lang.Class  - Test execution completed !!!
+INFO    2020-09-12 22:15:30,518 [main] java.lang.Class  - config file loaded
+ERROR   2020-09-12 22:15:30,520 [main] java.lang.Class  - Error Message
+INFO    2020-09-12 22:15:30,520 [main] java.lang.Class  - OR file loaded
+INFO    2020-09-12 22:15:45,678 [main] java.lang.Class  - chrome launched   !!!
+INFO    2020-09-12 22:15:47,181 [main] java.lang.Class  - navigated to http://www.way2automation.com/angularjs-protractor/banking/#/login
